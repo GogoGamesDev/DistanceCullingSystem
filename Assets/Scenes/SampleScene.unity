@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb9018e155c204e409f56d84987ff922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cullingDistance: 20
+  cullingDistance: 25
   player: {fileID: 2137309713}
   renderers: []
   exceptionRenderers:
